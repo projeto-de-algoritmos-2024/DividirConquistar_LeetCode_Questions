@@ -14,9 +14,9 @@ O projeto envolve a resolução de alguns problemas desafiadores do juiz online 
 
 | Nome do Problema | Link | Dificuldade | Resolução |
 | -- | -- | -- | -- |
-| | | | |
-
-<!-- | 1514. Path with Maximum Probability | [LeetCode](https://leetcode.com/problems/path-with-maximum-probability/description/) | Média | [Resolução](/1514_path_with_maximum_probability/Solution.py) | -->
+| Kth Largest Element in an Array | [LeetCode](https://leetcode.com/problems/kth-largest-element-in-an-array) | Medium | [Resolução](KesimoMaior.py) |
+| Path with Maximum Probability | [LeetCode](https://leetcode.com/problems/path-with-maximum-probability/) | Medium | [Resolução]() |
+| Median of Two Sorted Arrays | [LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [Resolução](\medianaArraysOrdenados.py) |
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
