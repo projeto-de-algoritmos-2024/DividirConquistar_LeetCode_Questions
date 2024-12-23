@@ -14,13 +14,18 @@ O projeto envolve a resolução de alguns problemas desafiadores do juiz online 
 
 | Nome do Problema | Link | Dificuldade | Resolução |
 | -- | -- | -- | -- |
-| Kth Largest Element in an Array | [LeetCode](https://leetcode.com/problems/kth-largest-element-in-an-array) | Medium | [Resolução](KesimoMaior.py) |
-| Median of Two Sorted Arrays | [LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [Resolução](medianaArraysOrdenados.py) |
+| Kth Largest Element in an Array | [LeetCode](https://leetcode.com/problems/kth-largest-element-in-an-array) | Medium | [Resolução](215_Kth_Largest_Element_in_an_Array/Solution.py) |
+| Median of Two Sorted Arrays | [LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [Resolução](4_Median_of_Two_Sorted_Arrays/Solution.py) |
 | Number of Pairs Satisfying Inequality | [LeetCode](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/description/) | Hard | [Resolução](2426_number_of_pairs_satisfying_inequality/Solution.py) |
 | Longest Substring with At Least K Repeating Characters | [LeetCode](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) | Medium | [Resolução](395_longest_substring_with_at_least_k_repeating_characters/Solution.py) |
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+Median of Two Sorted Arrays
+![Imagem 4](src/4.png)
+
+Kth Largest Element in an Array
+![Imagem 215](src/215.png)
+
 
 ## Instalação 
 **Linguagens**: Python<br>
