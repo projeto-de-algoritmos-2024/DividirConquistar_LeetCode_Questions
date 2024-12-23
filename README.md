@@ -40,8 +40,4 @@ Para executar as resoluções, copie o código em cada arquivo e coloque no Leet
 
 ## Vídeo
 
-<!-- link do video -->
-
-
-
-
+https://www.youtube.com/watch?v=Bygt0qF6SB0
