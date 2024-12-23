@@ -16,7 +16,7 @@ O projeto envolve a resolução de alguns problemas desafiadores do juiz online 
 | -- | -- | -- | -- |
 | Kth Largest Element in an Array | [LeetCode](https://leetcode.com/problems/kth-largest-element-in-an-array) | Medium | [Resolução](KesimoMaior.py) |
 | Path with Maximum Probability | [LeetCode](https://leetcode.com/problems/path-with-maximum-probability/) | Medium | [Resolução]() |
-| Median of Two Sorted Arrays | [LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [Resolução](\medianaArraysOrdenados.py) |
+| Median of Two Sorted Arrays | [LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [Resolução](medianaArraysOrdenados.py) |
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
