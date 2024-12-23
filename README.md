@@ -26,6 +26,11 @@ Median of Two Sorted Arrays
 Kth Largest Element in an Array
 ![Imagem 215](src/215.png)
 
+Number of Pairs Satisfying Inequality
+![Imagem 2426](src/2426.png)
+
+Longest Substring with At Least K Repeating Characters
+![Imagem 395](src/395.png)
 
 ## Instalação 
 **Linguagens**: Python<br>
