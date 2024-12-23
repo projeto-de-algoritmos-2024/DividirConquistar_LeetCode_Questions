@@ -1,13 +1,15 @@
 import bisect
 from typing import List
 
-# Divide and conquer using merge sort
+# Usando array ordenado com bisect
 class Solution:
   def numberOfPairs(self, nums1: List[int], nums2: List[int], diff: int) -> int:
     # nums1[i] - nums1[j] <= nums2[i] - nums2[j] + diff
-    # Create a key array to store the difference between the two arrays
+    # Cria um array de chaves para armazenar a diferença entre os elementos de nums1 e nums2
     key = []
     count = 0
+    
+    # Conta quantos pares satisfazem a condição e adiciona a chave no array
     for i in range(len(nums1)):
       # print(key)
       count += bisect.bisect_right(key, nums1[i] - nums2[i] + diff)
@@ -18,7 +20,7 @@ class Solution:
             
     return count
 
-# Brute force
+# Força bruta
 # class Solution:
 #   def numberOfPairs(self, nums1: List[int], nums2: List[int], diff: int) -> int:
 #     numberPairs = 0
@@ -28,4 +30,4 @@ class Solution:
 #           numberPairs += 1
 #     return numberPairs
   
-print(Solution().numberOfPairs([3,2,5], [2,2,1], 1))
+# print(Solution().numberOfPairs([3,2,5], [2,2,1], 1))
