@@ -1,44 +1,35 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# D&C - LeetCode
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 62<br>
+**Conteúdo da Disciplina**: Dividir e Conquistar<br>
 
 ## Alunos
-|Matrícula | Aluno |
+| Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 221022275  |  Felipe Amorim de Araújo |
+| 221022570  |  Gabryel Nícolas Soares de Sousa |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+O projeto envolve a resolução de alguns problemas desafiadores do juiz online LeetCode envolvendo os conceitos estudados no conteúdo de Grafos 2 da disciplina de Projeto de Algoritmos. Os problemas resolvidos, links e resoluções podem ser encontrados na tabela a seguir:
+
+| Nome do Problema | Link | Dificuldade | Resolução |
+| -- | -- | -- | -- |
+| | | | |
+
+<!-- | 1514. Path with Maximum Probability | [LeetCode](https://leetcode.com/problems/path-with-maximum-probability/description/) | Média | [Resolução](/1514_path_with_maximum_probability/Solution.py) | -->
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagens**: Python<br>
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Para executar as resoluções, copie o código em cada arquivo e coloque no LeetCode, ou crie casos de testes para execução de cada arquivo
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+## Vídeo
+
+<!-- link do video -->
 
 
 
